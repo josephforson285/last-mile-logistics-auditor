@@ -18,7 +18,7 @@ region.
 ## B. Project Links
 
 - **Notebook:** `notebook.ipynb` (+ `notebook.html`) in this repo · [Open in Google Colab](https://colab.research.google.com/drive/1oRdeySilAGEgb-0KKJCFTjEf82EHSPcy?usp=sharing)
-- **Dashboard (Streamlit Cloud):** [Access in dashboard](https://myrepo1-zuamrwnzg4metjyhsnfhgt.streamlit.app/)
+- **Dashboard (Streamlit Cloud):** [Link for dashboard](https://myrepo1-zuamrwnzg4metjyhsnfhgt.streamlit.app/)
 - **Presentation (slides PDF/PPT):** `presentation.pdf` in this repo · **<ADD LINK if hosted>**
 
 
